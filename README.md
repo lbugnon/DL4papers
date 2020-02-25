@@ -18,7 +18,7 @@ The script provided will evaluate DL4papers on a previously embedded corpus of p
 
 This is a distribution of the source code used in:
 
->  Bugnon L., C. Yones, J. Raad, M. Gerard, M. Rubiolo, G. Merino, M. Pividori, L. Di Persia, D.H. Milone, and G. Stegmayer, "DL4papers: a deep learning model for  interpretation of scientific articles", under review (2019).
+>  Bugnon L., C. Yones, J. Raad, M. Gerard, M. Rubiolo, G. Merino, M. Pividori, L. Di Persia, D.H. Milone, and G. Stegmayer, "DL4papers: a deep learning model for  interpretation of scientific articles", (to appear in) Oxford Bioinformatics (2020).
 
 ---
 
